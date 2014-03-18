@@ -1,0 +1,485 @@
+---------------------------------
+-  Initialization               -
+---------------------------------
+Creating state 0
+Transitions
+	To state	0	0.5
+	To state	1	0.5
+
+Emission Probabilities
+	Letter	a	0.2141
+	Letter	b	0.3181
+	Letter	d	0.2486
+	Letter	i	0.0156
+	Letter	#	0.2035
+Creating state 1
+Transitions
+	To state	0	0.5
+	To state	1	0.5
+
+Emission Probabilities
+	Letter	a	0.1197
+	Letter	b	0.0504
+	Letter	d	0.2821
+	Letter	i	0.261
+	Letter	#	0.2868
+
+
+---------------------------
+Pi:
+State	0	0.3196State	1	0.6804
+
+---------------------------------
+-  Iteration Number 0           -
+---------------------------------
+
+*** word: babi# ***
+Forward
+
+Pi of state	0	0.3196
+Pi of state	1	0.6804
+
+Time 2: 'b'
+	to state: 0
+		from state	0	previous Alpha time arc's a and b: 0.05083238
+		from state	1	previous Alpha time arc's a and b: 0.01714608
+
+	Alpha at time = 2, state = 0: 0.06797846
+
+	to state: 1
+		from state	0	previous Alpha time arc's a and b: 0.05083238
+		from state	1	previous Alpha time arc's a and b: 0.01714608
+
+	Alpha at time = 2, state = 1: 0.06797846
+
+	Sum of alpha's at time = 2: 0.13595692
+
+Time 3: 'a'
+	to state: 0
+		from state	0	previous Alpha time arc's a and b: 0.007277094143
+		from state	1	previous Alpha time arc's a and b: 0.004068510831
+
+	Alpha at time = 3, state = 0: 0.011345604974
+
+	to state: 1
+		from state	0	previous Alpha time arc's a and b: 0.007277094143
+		from state	1	previous Alpha time arc's a and b: 0.004068510831
+
+	Alpha at time = 3, state = 1: 0.011345604974
+
+	Sum of alpha's at time = 3: 0.022691209948
+
+Time 4: 'b'
+	to state: 0
+		from state	0	previous Alpha time arc's a and b: 0.00180451847111
+		from state	1	previous Alpha time arc's a and b: 0.000285909245345
+
+	Alpha at time = 4, state = 0: 0.00209042771646
+
+	to state: 1
+		from state	0	previous Alpha time arc's a and b: 0.00180451847111
+		from state	1	previous Alpha time arc's a and b: 0.000285909245345
+
+	Alpha at time = 4, state = 1: 0.00209042771646
+
+	Sum of alpha's at time = 4: 0.00418085543292
+
+Time 5: 'i'
+	to state: 0
+		from state	0	previous Alpha time arc's a and b: 1.63053361884e-05
+		from state	1	previous Alpha time arc's a and b: 0.000272800816998
+
+	Alpha at time = 5, state = 0: 0.000289106153186
+
+	to state: 1
+		from state	0	previous Alpha time arc's a and b: 1.63053361884e-05
+		from state	1	previous Alpha time arc's a and b: 0.000272800816998
+
+	Alpha at time = 5, state = 1: 0.000289106153186
+
+	Sum of alpha's at time = 5: 0.000578212306373
+
+Time 6: '#'
+	to state: 0
+		from state	0	previous Alpha time arc's a and b: 2.94165510867e-05
+		from state	1	previous Alpha time arc's a and b: 4.14578223669e-05
+
+	Alpha at time = 6, state = 0: 7.08743734536e-05
+
+	to state: 1
+		from state	0	previous Alpha time arc's a and b: 2.94165510867e-05
+		from state	1	previous Alpha time arc's a and b: 4.14578223669e-05
+
+	Alpha at time = 6, state = 1: 7.08743734536e-05
+
+	Sum of alpha's at time = 6: 0.000141748746907
+
+Alpha:
+
+Time	1	State	0:	0.3196	State	1:	0.6804
+Time	2	State	0:	0.06797846	State	1:	0.06797846
+Time	3	State	0:	0.011345604974	State	1:	0.011345604974
+Time	4	State	0:	0.00209042771646	State	1:	0.00209042771646
+Time	5	State	0:	0.000289106153186	State	1:	0.000289106153186
+Time	6	State	0:	7.08743734536e-05	State	1:	7.08743734536e-05
+
+Beta:
+
+Time	1	State	0:	0.000331651205332	State	1:	5.25470630265e-05
+Time	2	State	0:	0.00133745211394	State	1:	0.000747748799808
+Time	3	State	0:	0.0107849403345	State	1:	0.001708773948
+Time	4	State	0:	0.00382434	State	1:	0.06398415
+Time	5	State	0:	0.2035	State	1:	0.2868
+Time	6	State	0:	1.0	State	1:	1.0
+
+*** word: dida# ***
+Forward
+
+Pi of state	0	0.3196
+Pi of state	1	0.6804
+
+Time 2: 'd'
+	to state: 0
+		from state	0	previous Alpha time arc's a and b: 0.03972628
+		from state	1	previous Alpha time arc's a and b: 0.09597042
+
+	Alpha at time = 2, state = 0: 0.1356967
+
+	to state: 1
+		from state	0	previous Alpha time arc's a and b: 0.03972628
+		from state	1	previous Alpha time arc's a and b: 0.09597042
+
+	Alpha at time = 2, state = 1: 0.1356967
+
+	Sum of alpha's at time = 2: 0.2713934
+
+Time 3: 'i'
+	to state: 0
+		from state	0	previous Alpha time arc's a and b: 0.00105843426
+		from state	1	previous Alpha time arc's a and b: 0.01770841935
+
+	Alpha at time = 3, state = 0: 0.01876685361
+
+	to state: 1
+		from state	0	previous Alpha time arc's a and b: 0.00105843426
+		from state	1	previous Alpha time arc's a and b: 0.01770841935
+
+	Alpha at time = 3, state = 1: 0.01876685361
+
+	Sum of alpha's at time = 3: 0.03753370722
+
+Time 4: 'd'
+	to state: 0
+		from state	0	previous Alpha time arc's a and b: 0.00233271990372
+		from state	1	previous Alpha time arc's a and b: 0.00264706470169
+
+	Alpha at time = 4, state = 0: 0.00497978460541
+
+	to state: 1
+		from state	0	previous Alpha time arc's a and b: 0.00233271990372
+		from state	1	previous Alpha time arc's a and b: 0.00264706470169
+
+	Alpha at time = 4, state = 1: 0.00497978460541
+
+	Sum of alpha's at time = 4: 0.00995956921083
+
+Time 5: 'a'
+	to state: 0
+		from state	0	previous Alpha time arc's a and b: 0.00053308594201
+		from state	1	previous Alpha time arc's a and b: 0.000298040108634
+
+	Alpha at time = 5, state = 0: 0.000831126050644
+
+	to state: 1
+		from state	0	previous Alpha time arc's a and b: 0.00053308594201
+		from state	1	previous Alpha time arc's a and b: 0.000298040108634
+
+	Alpha at time = 5, state = 1: 0.000831126050644
+
+	Sum of alpha's at time = 5: 0.00166225210129
+
+Time 6: '#'
+	to state: 0
+		from state	0	previous Alpha time arc's a and b: 8.4567075653e-05
+		from state	1	previous Alpha time arc's a and b: 0.000119183475662
+
+	Alpha at time = 6, state = 0: 0.000203750551315
+
+	to state: 1
+		from state	0	previous Alpha time arc's a and b: 8.4567075653e-05
+		from state	1	previous Alpha time arc's a and b: 0.000119183475662
+
+	Alpha at time = 6, state = 1: 0.000203750551315
+
+	Sum of alpha's at time = 6: 0.000407501102631
+
+Alpha:
+
+Time	1	State	0:	0.3196	State	1:	0.6804
+Time	2	State	0:	0.1356967	State	1:	0.1356967
+Time	3	State	0:	0.01876685361	State	1:	0.01876685361
+Time	4	State	0:	0.00497978460541	State	1:	0.00497978460541
+Time	5	State	0:	0.000831126050644	State	1:	0.000831126050644
+Time	6	State	0:	0.000203750551315	State	1:	0.000203750551315
+
+Beta:
+
+Time	1	State	0:	0.000373276483931	State	1:	0.000423577216882
+Time	2	State	0:	0.000169368220511	State	1:	0.0028336606124
+Time	3	State	0:	0.010171602001	State	1:	0.0115422724235
+Time	4	State	0:	0.052486615	State	1:	0.029344455
+Time	5	State	0:	0.2035	State	1:	0.2868
+Time	6	State	0:	1.0	State	1:	1.0
+
+---------------------------------
+-  Total Probabilities          -
+---------------------------------
+Total probability of 'babi#': 0.000141748746907
+Total probability of 'dida#': 0.000407501102631
+
+---------------------------------
+-  Soft Counts                  -
+---------------------------------
+
+*** word: babi# ***
+
+As soft counts, they should add up to 1.0 for each letter emitted.
+
+
+Letter: b
+	From state: 0
+		to state:	0	0.479622399288;
+		to state:	1	0.268149468448;
+	From state: 1
+		to state:	0	0.16177963786;
+		to state:	1	0.0904484944039;
+
+Letter: a
+	From state: 0
+		to state:	0	0.553677036681;
+		to state:	1	0.0877250004675;
+	From state: 1
+		to state:	0	0.309552271325;
+		to state:	1	0.0490456915271;
+
+Letter: b
+	From state: 0
+		to state:	0	0.0486853839656;
+		to state:	1	0.81454392404;
+	From state: 1
+		to state:	0	0.00771374835544;
+		to state:	1	0.129056943639;
+
+Letter: i
+	From state: 0
+		to state:	0	0.0234085731742;
+		to state:	1	0.0329905591468;
+	From state: 1
+		to state:	0	0.3916434358;
+		to state:	1	0.551957431879;
+
+Letter: #
+	From state: 0
+		to state:	0	0.207526004487;
+		to state:	1	0.207526004487;
+	From state: 1
+		to state:	0	0.292473995513;
+		to state:	1	0.292473995513;
+
+Expected counts table (so far)
+	a	0	0	0.553677036681
+	a	0	1	0.0877250004675
+	a	1	0	0.309552271325
+	a	1	1	0.0490456915271
+	i	0	0	0.0234085731742
+	i	0	1	0.0329905591468
+	i	1	0	0.3916434358
+	i	1	1	0.551957431879
+	#	0	0	0.207526004487
+	#	0	1	0.207526004487
+	#	1	0	0.292473995513
+	#	1	1	0.292473995513
+	b	0	0	0.528307783253
+	b	0	1	1.08269339249
+	b	1	0	0.169493386216
+	b	1	1	0.219505438043
+	d	0	0	0.0
+	d	0	1	0.0
+	d	1	0	0.0
+	d	1	1	0.0
+
+*** word: dida# ***
+
+As soft counts, they should add up to 1.0 for each letter emitted.
+
+
+Letter: d
+	From state: 0
+		to state:	0	0.016511291154;
+		to state:	1	0.276246602;
+	From state: 1
+		to state:	0	0.039887841167;
+		to state:	1	0.667354265679;
+
+Letter: i
+	From state: 0
+		to state:	0	0.0264194917939;
+		to state:	1	0.0299796405272;
+	From state: 1
+		to state:	0	0.442018420398;
+		to state:	1	0.501582447281;
+
+Letter: d
+	From state: 0
+		to state:	0	0.300457031157;
+		to state:	1	0.167980881034;
+	From state: 1
+		to state:	0	0.340945005991;
+		to state:	1	0.190617081818;
+
+Letter: a
+	From state: 0
+		to state:	0	0.266215204078;
+		to state:	1	0.37518683307;
+	From state: 1
+		to state:	0	0.148836804896;
+		to state:	1	0.209761157956;
+
+Letter: #
+	From state: 0
+		to state:	0	0.207526004487;
+		to state:	1	0.207526004487;
+	From state: 1
+		to state:	0	0.292473995513;
+		to state:	1	0.292473995513;
+
+Expected counts table (final)
+	a	0	0	0.819892240759
+	a	0	1	0.462911833537
+	a	1	0	0.458389076221
+	a	1	1	0.258806849483
+	i	0	0	0.0498280649681
+	i	0	1	0.062970199674
+	i	1	0	0.833661856197
+	i	1	1	1.05353987916
+	#	0	0	0.415052008974
+	#	0	1	0.415052008974
+	#	1	0	0.584947991026
+	#	1	1	0.584947991026
+	b	0	0	0.528307783253
+	b	0	1	1.08269339249
+	b	1	0	0.169493386216
+	b	1	1	0.219505438043
+	d	0	0	0.316968322311
+	d	0	1	0.444227483035
+	d	1	0	0.380832847158
+	d	1	1	0.857971347496
+
+---------------------------------
+-  Maximization                 -
+---------------------------------
+Transition Probabilities
+
+From State: 0
+	to state: 0	prob: 0.463265158855
+	to state: 1	prob: 0.536734841145
+
+From State: 1
+	to state: 0	prob: 0.449330196899
+	to state: 1	prob: 0.550669803101
+
+
+Emission Probabilities
+
+From State: 0
+	letter: a
+		to state	0	0.819892240759
+		to state	1	0.462911833537
+		Total soft count of 'a' from state = 0 equals: 1.2828040743
+
+	letter: i
+		to state	0	0.0498280649681
+		to state	1	0.062970199674
+		Total soft count of 'i' from state = 0 equals: 0.112798264642
+
+	letter: #
+		to state	0	0.415052008974
+		to state	1	0.415052008974
+		Total soft count of '#' from state = 0 equals: 0.830104017948
+
+	letter: b
+		to state	0	0.528307783253
+		to state	1	1.08269339249
+		Total soft count of 'b' from state = 0 equals: 1.61100117574
+
+	letter: d
+		to state	0	0.316968322311
+		to state	1	0.444227483035
+		Total soft count of 'd' from state = 0 equals: 0.761195805346
+
+	Normalize soft counts to get emission probabilities:
+		letter: a	probability: 0.278997616958
+		letter: b	probability: 0.350377347526
+		letter: d	probability: 0.165552807311
+		letter: i	probability: 0.0245325437163
+		letter: #	probability: 0.180539684489
+
+From State: 1
+	letter: a
+		to state	0	0.458389076221
+		to state	1	0.258806849483
+		Total soft count of 'a' from state = 1 equals: 0.717195925704
+
+	letter: i
+		to state	0	0.833661856197
+		to state	1	1.05353987916
+		Total soft count of 'i' from state = 1 equals: 1.88720173536
+
+	letter: #
+		to state	0	0.584947991026
+		to state	1	0.584947991026
+		Total soft count of '#' from state = 1 equals: 1.16989598205
+
+	letter: b
+		to state	0	0.169493386216
+		to state	1	0.219505438043
+		Total soft count of 'b' from state = 1 equals: 0.388998824259
+
+	letter: d
+		to state	0	0.380832847158
+		to state	1	0.857971347496
+		Total soft count of 'd' from state = 1 equals: 1.23880419465
+
+	Normalize soft counts to get emission probabilities:
+		letter: a	probability: 0.132762512516
+		letter: b	probability: 0.0720088603733
+		letter: d	probability: 0.229319146279
+		letter: i	probability: 0.349346161949
+		letter: #	probability: 0.216563318882
+
+
+-------------------------------------------------------------------------
+-  End of iteration summary                                             -
+-------------------------------------------------------------------------
+
+---------------------------------
+Pi Values:
+State	0	0.520264880445
+State	1	0.479735119555
+
+---------------------------------
+-  Emission Probabilities       -
+---------------------------------
+	State 0		State 1	
+a	0.278997616958	0.132762512516
+b	0.350377347526	0.0720088603733
+d	0.165552807311	0.229319146279
+i	0.0245325437163	0.349346161949
+#	0.180539684489	0.216563318882
+
+---------------------------------
+-  Transition Probabilities     -
+---------------------------------
+		To State: 0	To State: 1	
+From State: 0	0.463265158855	0.449330196899	
+From State: 1	0.536734841145	0.550669803101	

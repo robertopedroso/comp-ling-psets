@@ -1,0 +1,530 @@
+--------------------------------------------------
+_a (suffix)
+--------------------------------------------------
+çuen çuena
+gure aguer
+cein icena
+guiçon guiçona
+berce bercea
+egun eguna
+ecin icena
+spiritu spiritua
+lehen lehena
+christen christean
+çuten çuetan
+handi handia
+baten batean
+emazte emaztea
+vici vicia
+ençuten çutenean
+populu populua
+anaye anayea
+saindu saindua
+mundu mundua
+fedez fedeaz
+etche etchea
+bekatu bekatua
+handic handiac
+bedi bidea
+regue reguea
+ogui oguia
+testimoniage testimoniagea
+bide bidea
+argui arguia
+harri harria
+bihotz bihotza
+odol odola
+
+--------------------------------------------------
+_en (suffix)
+--------------------------------------------------
+içan içanen
+erran erranen
+eguin eguinen
+vkan vkanen
+iesus iesusen
+cein ceinen
+eman emanen
+christ christen
+ençun ençunen
+iauna iaunean
+dena denean
+ecin ceinen
+eriden eridenen
+ditu dituen
+hori nehori
+çuten ençuten
+bera berean
+paul paulen
+aitzitic aitzinetic
+çuetan çutenean
+bata batean
+deseguin deseguinen
+renda denaren
+iauts iausten
+hitzac anhitzec
+prest present
+bihotza bihotzean
+
+--------------------------------------------------
+_c (suffix)
+--------------------------------------------------
+bere berce
+iaincoa iaincoac
+iauna iaunac
+baitu baituc
+dena denac
+aita aitac
+semea semeac
+buruä buruäc
+hitza hitzac
+ioan oinac
+ditu dituc
+duena duenac
+eztu eztuc
+handi handic
+bera berac
+batzu batzuc
+handia handiac
+emaztea emazteac
+spiritua spirituac
+çuetan çutenac
+bercea berceac
+drauat draucat
+saindua sainduac
+bata batac
+
+--------------------------------------------------
+_ac (suffix)
+--------------------------------------------------
+bere bercea
+guiçon guiçonac
+ciraden ciradenac
+neure cerauen
+berce berceac
+egun egunac
+spiritu spirituac
+diraden diradenac
+duen duenac
+hori horiac
+çuten çutenac
+seme semeac
+handi handiac
+hitz hitzac
+emazte emazteac
+anaye anayeac
+saindu sainduac
+bekatu bekatuac
+niçaz çaizcan
+manamendu manamenduac
+iudu iuduac
+gaichto gaichtoac
+
+--------------------------------------------------
+a_ (prefix)
+--------------------------------------------------
+iaincoa iainco
+iaincoa ioanic
+iauna iaun
+semea seme
+hitza hitz
+duena duen
+scribatua scribatu
+icenean ceinen
+iragan nigar
+fedea fede
+icena icen
+gorputza gorputz
+presenta present
+escua escu
+argui guri
+iauts itsu
+guciaz guciz
+spirituaz spirituz
+salua saul
+hacia haci
+
+--------------------------------------------------
+_ce (suffix)
+--------------------------------------------------
+iesus iesusec
+cein ceinec
+cein ciecen
+christ christec
+anhitz anhitzec
+ecin ceinec
+ecin ciecen
+duen ceuden
+bera bercea
+cembeit cembeitec
+duela ceudela
+ioannes ioannesec
+pierris pierrisec
+paul paulec
+berac berceac
+egon cegoen
+hetan etchean
+icen ciecen
+
+--------------------------------------------------
+_z (suffix)
+--------------------------------------------------
+içan niçaz
+nahi nahiz
+gucia guciaz
+iaincoa iaincoaz
+iauna iaunaz
+guero gueroz
+spiritu spirituz
+hitza hitzaz
+handi handiz
+spiritua spirituaz
+fedea fedeaz
+leguea legueaz
+cerbait cerbitza
+egoiten egoizten
+gucioc gucizco
+ehun hunez
+vrthe vrthez
+
+--------------------------------------------------
+_t (suffix)
+--------------------------------------------------
+hura hartu
+çuen çuten
+haur hartu
+çuela çutela
+baitu baitut
+ditu ditut
+eztu eztut
+duen duten
+bera batre
+çuenean çutenean
+icenean ceinetan
+duenac dutenac
+duela dutela
+badu badut
+drauca draucat
+itzaçue çaituzte
+bihotzean bihotzetan
+
+--------------------------------------------------
+_enr (suffix)
+--------------------------------------------------
+gucia guciaren
+iauna iaunaren
+ethorri ethorriren
+dena denaren
+aita aitaren
+semea semearen
+ikussi ikussiren
+duena duenaren
+recebitu recebituren
+gloria gloriaren
+laur lurrean
+spiritua spirituaren
+fedea fedearen
+deithu deithuren
+sarthu sarthuren
+populua populuaren
+mundua munduaren
+
+--------------------------------------------------
+_
+--------------------------------------------------
+hura haur
+cein ecin
+cein icen
+eman amen
+ciecén ceinéc
+dela alde
+hala ahal
+dena edan
+ecin icen
+iainco ioanic
+ceinec ciecen
+çareten eçarten
+bilha habil
+bedi bide
+maria arima
+ceuroc ceruco
+aditzen eztadin
+
+--------------------------------------------------
+_n (suffix)
+--------------------------------------------------
+çuen ençun
+dirade diraden
+gucia gucian
+eure neure
+duçue duçuen
+çarete çareten
+çarete eçarten
+buruä buruän
+çaitezte çaitezten
+resumá resumán
+leguea leguean
+dute duten
+çayó çayón
+lurrera lurraren
+mundua munduan
+çaye çayen
+
+--------------------------------------------------
+c_ (prefix)
+--------------------------------------------------
+guciac gucia
+contra norat
+nehorc nehor
+guiçonac guiçona
+hunec ehun
+aingueruäc aingueruä
+escuac escua
+anayeac anayea
+denac edan
+bekatuac bekatua
+deabruac deabrua
+batbederac batbedera
+aitác aitá
+bihotzac bihotza
+egunac eguna
+
+--------------------------------------------------
+_cir (suffix)
+--------------------------------------------------
+bada badaric
+ethorri ethorriric
+berce berceric
+ikussi ikussiric
+ilki ilkiric
+batez cerbitza
+guehiago guehiagoric
+eçagutu eçaguturic
+vtzi vtziric
+deithu deithuric
+iaiqui iaiquiric
+bekatu bekaturic
+sarthu sarthuric
+duçuela duçuelaric
+çaretela çaretelaric
+
+--------------------------------------------------
+en_ (prefix)
+--------------------------------------------------
+erraiten retira
+cenean cena
+ihardesten ihardets
+sinhesten sinhets
+emanen amen
+emaiten maite
+çuenean çuena
+icenean icena
+egunean eguna
+ceinen icen
+lurrean lurra
+denean edan
+munduaren mundura
+eracusten eracuts
+
+--------------------------------------------------
+n_al
+--------------------------------------------------
+çuen çuela
+ciraden ciradela
+diraden diradela
+çareten çaretela
+çuten çutela
+cituen cituela
+duçuen duçuela
+eçarten çaretela
+duten dutela
+ceuden ceudela
+cituzten cituztela
+renda aldera
+etzeçan ezteçala
+
+--------------------------------------------------
+c_n
+--------------------------------------------------
+ceçan neçan
+guciac gucian
+iesusec iesusen
+ciecén ceinén
+ceinec ceinen
+guciéc gucién
+batec baten
+hunec hunen
+buruäc buruän
+paulec paulen
+bercea berean
+ceinéc ceinén
+moysesec moysesen
+
+--------------------------------------------------
+_i (suffix)
+--------------------------------------------------
+iesus iesusi
+cein ceini
+artean aitaren
+berce recebi
+ecin ceini
+cenean icenean
+nehor nehori
+sinhets sinhetsi
+eror erori
+duten dituen
+icen ceini
+iauts iautsi
+harri hirira
+
+--------------------------------------------------
+_tu (suffix)
+--------------------------------------------------
+ceçan çutenac
+cein cituen
+dela dutela
+ecin cituen
+beguira beguiratu
+dioste diotsuet
+icenean cituenean
+dadin ditudan
+compli complitu
+minça minçatu
+senda sendatu
+salua saluatu
+
+--------------------------------------------------
+_ir (suffix)
+--------------------------------------------------
+ethor ethorri
+iaincoa iaincoari
+iauna iaunari
+aita aitari
+hari hirira
+batec cerbait
+eçar eçarri
+hequin hirequin
+bercea berceari
+populua populuari
+hara harria
+elkar elkarri
+
+--------------------------------------------------
+_ent (suffix)
+--------------------------------------------------
+çuen ençuten
+ethor ethorten
+gucia gucietan
+ikus ikusten
+ilki ilkiten
+ioan natione
+eguiaz iugeatzen
+eçar eçarten
+icena ceinetan
+iarreiqui iarreiquiten
+eraci eraciten
+bihotza bihotzetan
+
+--------------------------------------------------
+en_i
+--------------------------------------------------
+iaincoaren iaincoari
+iaunaren iaunari
+cenean icena
+sinhesten sinhetsi
+eraman maria
+eraman arima
+iesusen iesusi
+ceinen ceini
+aitaren aitari
+elkarren elkarri
+populuaren populuari
+
+--------------------------------------------------
+c_z
+--------------------------------------------------
+guciac guciaz
+ceçaten etzeçan
+iaincoac iaincoaz
+ceinec ceinez
+iaunac iaunaz
+guciéc guciéz
+batec batez
+hunec hunez
+handic handiz
+hitzac hitzaz
+spirituac spirituaz
+
+--------------------------------------------------
+_it (suffix)
+--------------------------------------------------
+cioela cioitela
+baitu baititu
+duçue dituçue
+cenean ceinetan
+gara gratia
+duen dituen
+gainera iragaiten
+berac cerbait
+dudan ditudan
+iautsi iustitia
+etzeçan çaitezten
+
+--------------------------------------------------
+_et (suffix)
+--------------------------------------------------
+eguin eguiten
+cedin ditecen
+ceçan ceçaten
+orduan ordenatu
+ençun ençuten
+baitu baitute
+citzan citzaten
+dena edaten
+eztu eztute
+hara hetara
+etzeçan etzeçaten
+
+--------------------------------------------------
+_ar (suffix)
+--------------------------------------------------
+cedin ciraden
+eman eraman
+dela aldera
+hari harria
+hiri hirira
+emaiten eramaiten
+recebi berceari
+mundu mundura
+iaten aitaren
+etche etchera
+leguea aleguera
+
+--------------------------------------------------
+n_r
+--------------------------------------------------
+gainean gainera
+aitzinean aitzinera
+duena draue
+baten batre
+icena eraci
+etchean etchera
+ceinetan eraciten
+lurrean lurrera
+aldean aldera
+munduan mundura
+
+--------------------------------------------------
+_ci (suffix)
+--------------------------------------------------
+ecen ceinec
+ecen ciecen
+içan içanic
+bere recebi
+eguin eguinic
+ençun ençunic
+lehen lehenic
+ioan ioanic
+duen duenic
+batre cerbait
+

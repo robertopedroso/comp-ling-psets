@@ -1,0 +1,4183 @@
+-------------------------------------------------------------------------
+-  Initial State
+-------------------------------------------------------------------------
+
+---------------------------------
+Pi Values:
+State	0	0.501441397207
+State	1	0.498558602793
+
+---------------------------------
+-  Emission Probabilities       -
+---------------------------------
+	State 0		State 1	
+  #	0.003022067912	0.014947694763	
+  '	0.024727101664	0.105636638654	
+  .	0.037321587192	0.00217305402	
+  G	0.018585763842	0.053961692462	
+  I	0.067657421508	0.008623607832	
+  M	0.004363168636	0.059653873016	
+  T	0.029335182057	0.00697056093	
+  V	0.016739862736	0.068778275465	
+  a	0.054987353918	0.040861374769	
+  c	0.017358965167	0.011680891414	
+  b	0.009345715954	0.000899185059	
+  e	0.006376208924	0.01007633798	
+  d	0.034698322877	0.056239645418	
+  g	0.012728945787	0.000126276924	
+  f	0.026132815416	0.013231773892	
+  i	0.109803826479	0.01027154419	
+  h	0.021943966424	0.076961597656	
+  k	0.064638359623	0.050992382884	
+  j	0.042345766031	0.019994136213	
+  m	0.016357690826	0.028342057161	
+  l	0.003930036435	0.015065924277	
+  o	0.021233192609	0.010089790481	
+  n	0.069881549214	0.017764760058	
+  q	0.005947893001	0.015904197806	
+  p	0.008494891727	0.011435422674	
+  s	0.029602377631	0.026021209592	
+  r	0.017006854023	0.003265349614	
+  u	0.031883098225	0.026775959146	
+  t	0.056064126308	0.024071662066	
+  w	0.041936226912	0.004709194279	
+  v	0.037782998409	0.11704958687	
+  y	0.006070619018	0.036973522495	
+  x	0.017674374198	0.027330518086	
+  z	0.034021669315	0.023120301851	
+
+Log ratios of emissions from the 2 states:
+  g	6.65537810678
+  .	4.10221439767
+  i	3.41820333761
+  b	3.37761522101
+  w	3.15464491725
+  I	2.97188471903
+  r	2.38080692019
+  T	2.07328528421
+  n	1.97589338902
+  t	1.21974217194
+  j	1.0826407728
+  o	1.07342509363
+  f	0.981856074955
+  c	0.571530569804
+  z	0.557293697056
+  a	0.428362119464
+  k	0.342108829216
+  u	0.251853574413
+  s	0.186025029135
+  p	-0.428842226803
+  x	-0.628853674343
+  e	-0.660200612023
+  d	-0.696721565829
+  m	-0.792975376648
+  q	-1.41895700603
+  G	-1.53773761624
+  v	-1.63131074066
+  h	-1.81031442865
+  l	-1.93867459052
+  V	-2.0386652443
+  '	-2.09494524873
+  #	-2.3063150225
+  y	-2.60657695666
+  M	-3.77316766765
+
+---------------------------------
+-  Transition Probabilities     -
+---------------------------------
+		To State: 0	To State: 1	
+From State: 0	0.4259572245	0.5740427755	
+From State: 1	0.7023298716	0.2976701284	
+
+
+-------------------------------------------------------------------------
+-  Iteration Summary
+-------------------------------------------------------------------------
+
+---------------------------------
+Pi Values:
+State	0	0.982629638035
+State	1	0.0173703619652
+
+---------------------------------
+-  Emission Probabilities       -
+---------------------------------
+	State 0		State 1	
+  #	0.016347464818	0.328457895718	
+  '	9.2948791e-05	0.012003522207	
+  .	0.000649234543	2.0246059e-05	
+  G	0.000334409247	3.64e-10	
+  I	0.001672047989	3e-12	
+  M	0.000668714451	1.08283e-07	
+  T	0.000334409595	4e-12	
+  V	1.5475305e-05	0.000329705213	
+  a	0.04552641308	0.078080625376	
+  c	0.048180983146	0.005504371235	
+  b	0.030762908314	2.868451e-06	
+  e	0.055360053506	0.157452001437	
+  d	0.05228579403	0.006792184643	
+  g	0.039041839549	8.6923103e-05	
+  f	0.030788484636	0.001013537807	
+  i	0.025191243917	0.06245801239	
+  h	0.035642874621	0.039208100287	
+  k	0.023062184348	0.003815220417	
+  j	0.00300963192	5.6306e-08	
+  m	0.039915863549	0.00402322593	
+  l	0.042800458754	0.046328325162	
+  o	0.020760448244	0.100225944884	
+  n	0.062552865062	0.037317052349	
+  q	0.002006457091	5.16e-10	
+  p	0.03769146886	0.003902819968	
+  s	0.09479103791	0.005027254449	
+  r	0.093647978653	0.023148370676	
+  u	0.007062948638	0.049739543026	
+  t	0.11251085585	0.012636745784	
+  w	0.037098012766	2.2177153e-05	
+  v	0.007154795126	0.008505920644	
+  y	0.031879039989	0.008874434396	
+  x	0.00056886356	0.003906065878	
+  z	0.00059179014	0.001116739882	
+
+Log ratios of emissions from the 2 states:
+  I	29.0302632345
+  T	26.4993443128
+  q	21.8896746853
+  G	19.8105862293
+  j	15.7059473498
+  b	13.3886322554
+  M	12.5923680793
+  w	10.7080520095
+  g	8.81106563846
+  .	5.00302672118
+  f	4.92491905173
+  s	4.23690804849
+  m	3.3105375609
+  p	3.27164919899
+  t	3.15436731621
+  c	3.1298141534
+  d	2.94447143792
+  k	2.59569085163
+  r	2.01633720357
+  y	1.84488110574
+  n	0.745240931489
+  l	-0.114268267611
+  h	-0.137538046162
+  v	-0.249556938695
+  a	-0.778260810777
+  z	-0.916135618422
+  i	-1.3099642964
+  e	-1.5079948538
+  o	-2.27134651989
+  x	-2.77956170648
+  u	-2.81605074266
+  #	-4.32856962304
+  V	-4.41313697039
+  '	-7.01280597695
+
+---------------------------------
+-  Transition Probabilities     -
+---------------------------------
+		To State: 0	To State: 1	
+From State: 0	0.2661768253	0.7338231747	
+From State: 1	0.6287553498	0.3712446502	
+
+
+---------------------------------
+-  Viterbi Paths                -
+---------------------------------
+Best path for: word#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: son#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: better#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: stay#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: huge#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: happy#
+time:	0	1	2	3	4	5
+state:	0	1	0	0	0	1
+
+Best path for: silent#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	0	1
+
+Best path for: almost#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	0	1
+
+Best path for: sometimes#
+time:	0	1	2	3	4	5	6	7	8	9
+state:	0	1	0	1	0	1	0	1	0	1
+
+Best path for: party#
+time:	0	1	2	3	4	5
+state:	0	1	0	0	0	1
+
+Best path for: one#
+time:	0	1	2	3
+state:	0	0	1	1
+
+Best path for: bedroom#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	0	1	1	0	1
+
+Best path for: several#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	0	1	0	1
+
+Best path for: deal#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: stood#
+time:	0	1	2	3	4	5
+state:	0	0	1	1	0	1
+
+Best path for: whether#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	1	0	1	1	0	1
+
+Best path for: meant#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: pair#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: flash#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: although#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	0	1	1	1	0	1	1
+
+Best path for: slowly#
+time:	0	1	2	3	4	5	6
+state:	0	1	1	0	1	0	1
+
+Best path for: knock#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	0	1
+
+Best path for: position#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	0	1	0	1	1	0	1
+
+Best path for: note#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: train#
+time:	0	1	2	3	4	5
+state:	0	0	1	1	0	1
+
+Best path for: lead#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: inside#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	1	1
+
+Best path for: manage#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	1	1
+
+Best path for: talk#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: expression#
+time:	0	1	2	3	4	5	6	7	8	9	10
+state:	0	1	0	0	1	0	0	1	1	0	1
+
+Best path for: everyone#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	1	0	0	1	0	1	1
+
+Best path for: cause#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: college#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	1	0	1	1
+
+Best path for: child#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: today#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: ever#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: more#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: sun#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: save#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: present#
+time:	0	1	2	3	4	5	6	7
+state:	0	0	1	0	1	0	0	1
+
+Best path for: broken#
+time:	0	1	2	3	4	5	6
+state:	0	0	1	0	1	0	1
+
+Best path for: relax#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	1	1
+
+Best path for: quietly#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	0	1	0	1
+
+Best path for: help#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: mark#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: best#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: accept#
+time:	0	1	2	3	4	5	6
+state:	0	0	0	1	0	0	1
+
+Best path for: sky#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: relationship#
+time:	0	1	2	3	4	5	6	7	8	9	10	11	12
+state:	0	1	0	1	0	1	1	0	0	1	1	0	1
+
+Best path for: front#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	0	1
+
+Best path for: hi#
+time:	0	1	2
+state:	0	1	1
+
+Best path for: soft#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: along#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: hour#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: haven't#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	0	1	0	1
+
+Best path for: think#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: set#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: group#
+time:	0	1	2	3	4	5
+state:	0	0	1	1	0	1
+
+Best path for: else#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: direction#
+time:	0	1	2	3	4	5	6	7	8	9
+state:	0	1	0	1	0	0	1	1	0	1
+
+Best path for: somewhere#
+time:	0	1	2	3	4	5	6	7	8	9
+state:	0	1	0	1	0	1	1	0	1	1
+
+Best path for: pants#
+time:	0	1	2	3	4	5
+state:	0	1	0	0	0	1
+
+Best path for: appear#
+time:	0	1	2	3	4	5	6
+state:	0	0	0	1	1	0	1
+
+Best path for: has#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: instead#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	0	1	1	0	1
+
+Best path for: scream#
+time:	0	1	2	3	4	5	6
+state:	0	0	0	1	1	0	1
+
+Best path for: usually#
+time:	0	1	2	3	4	5	6	7
+state:	0	0	1	1	0	1	0	1
+
+Best path for: climb#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: hair#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: quiet#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: answer#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: hundred#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	0	0	1	0	1
+
+Best path for: suggest#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	0	1	0	0	1
+
+Best path for: stomach#
+time:	0	1	2	3	4	5	6	7
+state:	0	0	1	0	1	0	1	1
+
+Best path for: continue#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	0	0	1	0	1	0	1
+
+Best path for: she'd#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: mention#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	0	1	1	0	1
+
+Best path for: change#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	1	1
+
+Best path for: parents#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	0	0	0	1
+
+Best path for: that#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: kid#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: pretty#
+time:	0	1	2	3	4	5	6
+state:	0	0	1	0	0	0	1
+
+Best path for: rest#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: outside#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	0	1	0	1	1
+
+Best path for: large#
+time:	0	1	2	3	4	5
+state:	0	1	0	0	1	1
+
+Best path for: settle#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: allow#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: even#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: tire#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: put#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: track#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	0	1
+
+Best path for: many#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: phone#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: drink#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	0	1
+
+Best path for: mutter#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: entire#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	1	1
+
+Best path for: through#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	1	0	1	1
+
+Best path for: say#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: might#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: everything#
+time:	0	1	2	3	4	5	6	7	8	9	10
+state:	0	1	1	0	1	0	1	0	1	0	1
+
+Best path for: warn#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: street#
+time:	0	1	2	3	4	5	6
+state:	0	0	0	1	1	0	1
+
+Best path for: grab#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: return#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	0	1
+
+Best path for: when#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: light#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: worse#
+time:	0	1	2	3	4	5
+state:	0	1	0	0	1	1
+
+Best path for: she's#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: gun#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: counter#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	1	0	0	1	0	1
+
+Best path for: beautiful#
+time:	0	1	2	3	4	5	6	7	8	9
+state:	0	1	0	1	0	1	0	1	0	1
+
+Best path for: add#
+time:	0	1	2	3
+state:	0	0	0	1
+
+Best path for: stand#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	0	1
+
+Best path for: must#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: here#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: fuck#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: share#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: yourself#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	1	0	0	1	1	0	1
+
+Best path for: breath#
+time:	0	1	2	3	4	5	6
+state:	0	0	1	1	0	1	1
+
+Best path for: myself#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	1	0	1
+
+Best path for: case#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: felt#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: up#
+time:	0	1	2
+state:	0	0	1
+
+Best path for: given#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: reply#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: sad#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: brush#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	1	1
+
+Best path for: shove#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: bright#
+time:	0	1	2	3	4	5	6
+state:	0	0	1	0	1	0	1
+
+Best path for: bring#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	0	1
+
+Best path for: really#
+time:	0	1	2	3	4	5	6
+state:	0	1	1	0	1	0	1
+
+Best path for: remind#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	0	1
+
+Best path for: we'll#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: guard#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: movie#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: drag#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: kept#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: seen#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: always#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	0	1
+
+Best path for: drop#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: bite#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: run#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: lady#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: ball#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: animal#
+time:	0	1	2	3	4	5	6
+state:	0	0	1	0	1	0	1
+
+Best path for: right#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: God#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: skin#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: suck#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: watch#
+time:	0	1	2	3	4	5
+state:	0	1	0	0	1	1
+
+Best path for: believe#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	1	0	1	1
+
+Best path for: sir#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: name#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: jacket#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: pull#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: hard#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: ahead#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: dry#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: until#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: eyebrow#
+time:	0	1	2	3	4	5	6	7
+state:	0	0	1	0	0	1	0	1
+
+Best path for: off#
+time:	0	1	2	3
+state:	0	0	0	1
+
+Best path for: quickly#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	1	0	0	1	0	1
+
+Best path for: blood#
+time:	0	1	2	3	4	5
+state:	0	1	1	1	0	1
+
+Best path for: situation#
+time:	0	1	2	3	4	5	6	7	8	9
+state:	0	1	0	1	1	0	1	1	0	1
+
+Best path for: couch#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: three#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: ice#
+time:	0	1	2	3
+state:	0	0	1	1
+
+Best path for: handle#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: us#
+time:	0	1	2
+state:	0	0	1
+
+Best path for: shit#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: cute#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: I'm#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: wipe#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: and#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: cheek#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: how#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: catch#
+time:	0	1	2	3	4	5
+state:	0	1	0	0	1	1
+
+Best path for: said#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: take#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: nothing#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	0	1	0	1
+
+Best path for: locker#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: big#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: arm#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: far#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: wave#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: fit#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: tie#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: guy#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: color#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: type#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: snap#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: space#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	1	1
+
+Best path for: block#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: plan#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: mouth#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: someone#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	1	0	1	1
+
+Best path for: heard#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: high#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: show#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: water#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: half#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: jeans#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: keep#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: class#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: you've#
+time:	0	1	2	3	4	5	6
+state:	0	1	1	1	0	1	1
+
+Best path for: wind#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: nose#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: trail#
+time:	0	1	2	3	4	5
+state:	0	0	1	1	0	1
+
+Best path for: line#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: eat#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: state#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	1	1
+
+Best path for: lock#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: food#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: exclaim#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	0	1	0	1
+
+Best path for: number#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: hide#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: we've#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: both#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: confuse#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	0	1	0	1	1
+
+Best path for: listen#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: hear#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: escape#
+time:	0	1	2	3	4	5	6
+state:	0	0	0	1	0	1	1
+
+Best path for: laugh#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: piece#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: fault#
+time:	0	1	2	3	4	5
+state:	0	1	1	1	0	1
+
+Best path for: hug#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: different#
+time:	0	1	2	3	4	5	6	7	8	9
+state:	0	1	0	0	1	0	1	0	0	1
+
+Best path for: brown#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	0	1
+
+Best path for: mumble#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: normal#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: explain#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	0	1	0	1
+
+Best path for: there#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: you'd#
+time:	0	1	2	3	4	5
+state:	0	1	1	1	0	1
+
+Best path for: grin#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: need#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: sat#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: calm#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: music#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: memory#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	0	1
+
+Best path for: dinner#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: act#
+time:	0	1	2	3
+state:	0	0	0	1
+
+Best path for: cold#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: its#
+time:	0	1	2	3
+state:	0	0	0	1
+
+Best path for: still#
+time:	0	1	2	3	4	5
+state:	0	0	1	1	0	1
+
+Best path for: sweet#
+time:	0	1	2	3	4	5
+state:	0	0	1	1	0	1
+
+Best path for: wall#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: past#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: hand#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: school#
+time:	0	1	2	3	4	5	6
+state:	0	0	1	1	1	0	1
+
+Best path for: threw#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: the#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: around#
+time:	0	1	2	3	4	5	6
+state:	0	0	1	1	0	0	1
+
+Best path for: saw#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: mom#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: conversation#
+time:	0	1	2	3	4	5	6	7	8	9	10	11	12
+state:	0	1	0	1	1	0	0	1	0	1	1	0	1
+
+Best path for: down#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: wow#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: chuckle#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	1	0	0	1	0	1
+
+Best path for: course#
+time:	0	1	2	3	4	5	6
+state:	0	1	1	0	0	1	1
+
+Best path for: burst#
+time:	0	1	2	3	4	5
+state:	0	1	0	0	0	1
+
+Best path for: did#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: already#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	1	0	0	1
+
+Best path for: realize#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	1	0	1	0	1	1
+
+Best path for: strong#
+time:	0	1	2	3	4	5	6
+state:	0	0	0	1	0	0	1
+
+Best path for: shadow#
+time:	0	1	2	3	4	5	6
+state:	0	1	1	0	1	0	1
+
+Best path for: hope#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: led#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: full#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: somehow#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	0	1	0	1
+
+Best path for: if#
+time:	0	1	2
+state:	0	0	1
+
+Best path for: dead#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: corner#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: between#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	0	1	1	0	1
+
+Best path for: truth#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	1	1
+
+Best path for: focus#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: each#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: within#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	1	0	1
+
+Best path for: look#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: cut#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: little#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: wouldn't#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	1	1	0	0	1	0	1
+
+Best path for: it#
+time:	0	1	2
+state:	0	0	1
+
+Best path for: great#
+time:	0	1	2	3	4	5
+state:	0	0	1	1	0	1
+
+Best path for: hung#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: had#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: story#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	0	1
+
+Best path for: carefully#
+time:	0	1	2	3	4	5	6	7	8	9
+state:	0	1	0	1	0	1	0	1	0	1
+
+Best path for: expect#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	0	1
+
+Best path for: year#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: form#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: interest#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	0	1	0	1	0	0	1
+
+Best path for: offer#
+time:	0	1	2	3	4	5
+state:	0	0	0	1	0	1
+
+Best path for: all#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: play#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: tall#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: our#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: week#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: crowd#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	0	1
+
+Best path for: than#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: fine#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: glance#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	1	1
+
+Best path for: tomorrow#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	0	1	0	0	1	0	1
+
+Best path for: nervous#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	1	1	0	1
+
+Best path for: spoke#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	1	1
+
+Best path for: also#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: suppose#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	0	1	0	1	1
+
+Best path for: trouble#
+time:	0	1	2	3	4	5	6	7
+state:	0	0	1	1	0	1	0	1
+
+Best path for: by#
+time:	0	1	2
+state:	0	0	1
+
+Best path for: admit#
+time:	0	1	2	3	4	5
+state:	0	0	0	1	0	1
+
+Best path for: house#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: beside#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	1	1
+
+Best path for: got#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: as#
+time:	0	1	2
+state:	0	0	1
+
+Best path for: quick#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: car#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: fix#
+time:	0	1	2	3
+state:	0	1	1	1
+
+Best path for: or#
+time:	0	1	2
+state:	0	0	1
+
+Best path for: seven#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: don't#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: at#
+time:	0	1	2
+state:	0	0	1
+
+Best path for: could#
+time:	0	1	2	3	4	5
+state:	0	1	1	1	0	1
+
+Best path for: repeat#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	1	0	1
+
+Best path for: self#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: throw#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: shouldn't#
+time:	0	1	2	3	4	5	6	7	8	9
+state:	0	1	1	1	1	0	0	1	0	1
+
+Best path for: jerk#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: carry#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: teeth#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: funny#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: is#
+time:	0	1	2
+state:	0	0	1
+
+Best path for: sent#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: computer#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	0	0	1	0	1	0	1
+
+Best path for: day#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: time#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: what's#
+time:	0	1	2	3	4	5	6
+state:	0	1	1	0	1	0	1
+
+Best path for: fire#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: book#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: make#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: smirk#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	0	1
+
+Best path for: blue#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: fly#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: against#
+time:	0	1	2	3	4	5	6	7
+state:	0	0	1	0	1	0	0	1
+
+Best path for: met#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: Mr.#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: across#
+time:	0	1	2	3	4	5	6
+state:	0	0	0	1	0	0	1
+
+Best path for: mum#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: piss#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: never#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: went#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: cross#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	0	1
+
+Best path for: mad#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: onto#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: frown#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	0	1
+
+Best path for: perhaps#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	1	0	0	1
+
+Best path for: began#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: heavy#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: practically#
+time:	0	1	2	3	4	5	6	7	8	9	10	11
+state:	0	0	1	0	0	1	0	1	0	1	0	1
+
+Best path for: go#
+time:	0	1	2
+state:	0	1	1
+
+Best path for: attention#
+time:	0	1	2	3	4	5	6	7	8	9
+state:	0	0	0	1	0	0	1	1	0	1
+
+Best path for: couldn't#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	1	1	0	0	1	0	1
+
+Best path for: marry#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: dear#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: black#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: that's#
+time:	0	1	2	3	4	5	6
+state:	0	1	1	0	1	0	1
+
+Best path for: during#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	0	1
+
+Best path for: trust#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	0	1
+
+Best path for: but#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: too#
+time:	0	1	2	3
+state:	0	1	1	1
+
+Best path for: anyone#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	1	1
+
+Best path for: doctor#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: anymore#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	0	1	0	1	1
+
+Best path for: mirror#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: stair#
+time:	0	1	2	3	4	5
+state:	0	0	1	1	0	1
+
+Best path for: complete#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	0	0	1	1	0	1	1
+
+Best path for: two#
+time:	0	1	2	3
+state:	0	0	1	1
+
+Best path for: have#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: tiny#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: eye#
+time:	0	1	2	3
+state:	0	0	1	1
+
+Best path for: safe#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: ass#
+time:	0	1	2	3
+state:	0	0	0	1
+
+Best path for: short#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: brain#
+time:	0	1	2	3	4	5
+state:	0	0	1	1	0	1
+
+Best path for: begin#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: family#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	1	0	1
+
+Best path for: me#
+time:	0	1	2
+state:	0	1	1
+
+Best path for: love#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: card#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: be#
+time:	0	1	2
+state:	0	1	1
+
+Best path for: suddenly#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	0	0	1	0	1	0	1
+
+Best path for: other#
+time:	0	1	2	3	4	5
+state:	0	0	1	1	0	1
+
+Best path for: power#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: remember#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	0	1	0	0	1	0	1
+
+Best path for: late#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: easy#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: her#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: baby#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: crack#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	0	1
+
+Best path for: approach#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	0	0	0	1	1	0	1	1
+
+Best path for: new#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: enough#
+time:	0	1	2	3	4	5	6
+state:	0	0	1	1	0	1	1
+
+Best path for: didn't#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: stare#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	1	1
+
+Best path for: gaze#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: gently#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: from#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: shift#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: on#
+time:	0	1	2
+state:	0	0	1
+
+Best path for: sound#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: cup#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: behind#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	0	1
+
+Best path for: forward#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	0	1	0	0	1
+
+Best path for: immediately#
+time:	0	1	2	3	4	5	6	7	8	9	10	11
+state:	0	0	0	1	0	1	1	0	1	1	0	1
+
+Best path for: was#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: yell#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: early#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: air#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: except#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	0	1
+
+Best path for: pain#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: twenty#
+time:	0	1	2	3	4	5	6
+state:	0	0	1	0	0	0	1
+
+Best path for: body#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: chase#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: bit#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: dog#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: horse#
+time:	0	1	2	3	4	5
+state:	0	1	0	0	1	1
+
+Best path for: give#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: old#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: head#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: gone#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: to#
+time:	0	1	2
+state:	0	1	1
+
+Best path for: girl#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: weren't#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	0	1	0	1
+
+Best path for: hang#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: wear#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: speak#
+time:	0	1	2	3	4	5
+state:	0	0	1	1	0	1
+
+Best path for: gonna#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: lie#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: search#
+time:	0	1	2	3	4	5	6
+state:	0	1	1	0	0	1	1
+
+Best path for: huh#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: weird#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: floor#
+time:	0	1	2	3	4	5
+state:	0	1	1	1	0	1
+
+Best path for: can't#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: wasn't#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: single#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: they're#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	1	0	1	0	1	1
+
+Best path for: bell#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: spent#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	0	1
+
+Best path for: well#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: fall#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: wish#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: point#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: often#
+time:	0	1	2	3	4	5
+state:	0	0	0	1	0	1
+
+Best path for: summer#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: do#
+time:	0	1	2
+state:	0	1	1
+
+Best path for: boyfriend#
+time:	0	1	2	3	4	5	6	7	8	9
+state:	0	1	0	0	0	1	1	0	0	1
+
+Best path for: small#
+time:	0	1	2	3	4	5
+state:	0	0	1	1	0	1
+
+Best path for: touch#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: bad#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: damn#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: fill#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: window#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: shut#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: he'd#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: should#
+time:	0	1	2	3	4	5	6
+state:	0	1	1	1	1	0	1
+
+Best path for: breathe#
+time:	0	1	2	3	4	5	6	7
+state:	0	0	1	1	0	1	0	1
+
+Best path for: business#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	0	1	0	1	0	0	1
+
+Best path for: very#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: first#
+time:	0	1	2	3	4	5
+state:	0	1	0	0	0	1
+
+Best path for: slightly#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	1	0	1	0	1	0	1
+
+Best path for: shower#
+time:	0	1	2	3	4	5	6
+state:	0	1	1	0	1	0	1
+
+Best path for: an#
+time:	0	1	2
+state:	0	0	1
+
+Best path for: we're#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: noise#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: order#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: round#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: tongue#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: see#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: wake#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: nice#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: fast#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: game#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: town#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: fight#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: age#
+time:	0	1	2	3
+state:	0	0	1	1
+
+Best path for: afternoon#
+time:	0	1	2	3	4	5	6	7	8	9
+state:	0	0	0	1	0	0	1	1	0	1
+
+Best path for: voice#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: they#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: concern#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	0	1	0	0	1
+
+Best path for: force#
+time:	0	1	2	3	4	5
+state:	0	1	0	0	1	1
+
+Best path for: serious#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	1	1	0	1
+
+Best path for: grip#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: face#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: ride#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: struggle#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	0	0	1	0	0	1	0	1
+
+Best path for: alone#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: aren't#
+time:	0	1	2	3	4	5	6
+state:	0	0	1	0	1	0	1
+
+Best path for: not#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: match#
+time:	0	1	2	3	4	5
+state:	0	1	0	0	1	1
+
+Best path for: idea#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: park#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: while#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: feel#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: definitely#
+time:	0	1	2	3	4	5	6	7	8	9	10
+state:	0	1	0	1	0	1	0	1	1	0	1
+
+Best path for: join#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: whisper#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	1	0	0	1	0	1
+
+Best path for: groan#
+time:	0	1	2	3	4	5
+state:	0	0	1	1	0	1
+
+Best path for: want#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: area#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: same#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: busy#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: isn't#
+time:	0	1	2	3	4	5
+state:	0	0	0	1	0	1
+
+Best path for: rather#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	1	0	1
+
+Best path for: uncle#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: mean#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: police#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	1	1
+
+Best path for: sure#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: tree#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: joke#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: barely#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	1	0	1
+
+Best path for: shot#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: gotten#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: hit#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: with#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: ear#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: few#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: anger#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: green#
+time:	0	1	2	3	4	5
+state:	0	0	1	1	0	1
+
+Best path for: field#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: try#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: team#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: pop#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: attempt#
+time:	0	1	2	3	4	5	6	7
+state:	0	0	0	1	0	0	0	1
+
+Best path for: burn#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: would#
+time:	0	1	2	3	4	5
+state:	0	1	1	1	0	1
+
+Best path for: usual#
+time:	0	1	2	3	4	5
+state:	0	0	1	1	0	1
+
+Best path for: third#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: agree#
+time:	0	1	2	3	4	5
+state:	0	0	0	1	0	1
+
+Best path for: about#
+time:	0	1	2	3	4	5
+state:	0	0	1	1	0	1
+
+Best path for: giggle#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: fell#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: empty#
+time:	0	1	2	3	4	5
+state:	0	0	0	0	0	1
+
+Best path for: won't#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: chance#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	1	1
+
+Best path for: please#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	1	1
+
+Best path for: imagine#
+time:	0	1	2	3	4	5	6	7
+state:	0	0	1	0	1	0	1	1
+
+Best path for: leave#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: blush#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: anything#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	0	0	1	0	1	0	1
+
+Best path for: tear#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: stupid#
+time:	0	1	2	3	4	5	6
+state:	0	0	1	0	1	0	1
+
+Best path for: next#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: apparently#
+time:	0	1	2	3	4	5	6	7	8	9	10
+state:	0	0	0	1	0	1	0	0	1	0	1
+
+Best path for: they'd#
+time:	0	1	2	3	4	5	6
+state:	0	1	1	0	1	0	1
+
+Best path for: him#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: crazy#
+time:	0	1	2	3	4	5
+state:	0	0	1	1	0	1
+
+Best path for: press#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	0	1
+
+Best path for: them#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: bus#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: write#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	1	1
+
+Best path for: punch#
+time:	0	1	2	3	4	5
+state:	0	1	0	0	1	1
+
+Best path for: control#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	0	0	1	0	1
+
+Best path for: men#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: leg#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: pause#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: hurt#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: city#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: into#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: surround#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	0	0	1	1	0	0	1
+
+Best path for: end#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: job#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: open#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: once#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: feet#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: shirt#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: caught#
+time:	0	1	2	3	4	5	6
+state:	0	1	1	0	1	0	1
+
+Best path for: middle#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: kitchen#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	0	1	1	0	1
+
+Best path for: figure#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	1	1
+
+Best path for: rock#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: because#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	1	0	1	1
+
+Best path for: study#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	0	1
+
+Best path for: finish#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	1	1
+
+Best path for: disappear#
+time:	0	1	2	3	4	5	6	7	8	9
+state:	0	1	0	1	0	0	1	1	0	1
+
+Best path for: find#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: come#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: ground#
+time:	0	1	2	3	4	5	6
+state:	0	0	1	1	0	0	1
+
+Best path for: date#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: man#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: told#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: hot#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: softly#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: mind#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: you'll#
+time:	0	1	2	3	4	5	6
+state:	0	1	1	1	1	0	1
+
+Best path for: anyway#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: ignore#
+time:	0	1	2	3	4	5	6
+state:	0	0	0	1	0	1	1
+
+Best path for: people#
+time:	0	1	2	3	4	5	6
+state:	0	1	1	0	1	0	1
+
+Best path for: wait#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: shock#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: after#
+time:	0	1	2	3	4	5
+state:	0	0	0	1	0	1
+
+Best path for: bar#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: decide#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	1	1
+
+Best path for: I'd#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: seriously#
+time:	0	1	2	3	4	5	6	7	8	9
+state:	0	1	0	1	1	1	0	1	0	1
+
+Best path for: step#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: exactly#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	1	0	0	1	0	1
+
+Best path for: human#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: able#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: it's#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: his#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: ten#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: enjoy#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: important#
+time:	0	1	2	3	4	5	6	7	8	9
+state:	0	0	0	1	0	0	1	0	0	1
+
+Best path for: check#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: close#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: learn#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: draw#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: however#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	0	1	0	1
+
+Best path for: then#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: lot#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: mother#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	1	0	1
+
+Best path for: whatever#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	1	0	1	0	1	0	1
+
+Best path for: above#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	1	1
+
+Best path for: drove#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	1	1
+
+Best path for: silence#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	0	0	1	1
+
+Best path for: money#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: race#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: live#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: rub#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: doubt#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: kick#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: stuck#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	0	1
+
+Best path for: pass#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: knew#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: he's#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: slip#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: shoulder#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	1	1	1	0	1	0	1
+
+Best path for: sense#
+time:	0	1	2	3	4	5
+state:	0	1	0	0	1	1
+
+Best path for: done#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: glass#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: together#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	0	1	0	1	1	0	1
+
+Best path for: door#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: four#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: wonder#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: teacher#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	1	0	1	1	0	1
+
+Best path for: own#
+time:	0	1	2	3
+state:	0	0	0	1
+
+Best path for: shop#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: hey#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: dress#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	0	1
+
+Best path for: now#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: home#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: deep#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: though#
+time:	0	1	2	3	4	5	6
+state:	0	1	1	1	0	1	1
+
+Best path for: were#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: dance#
+time:	0	1	2	3	4	5
+state:	0	1	0	0	1	1
+
+Best path for: like#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: maybe#
+time:	0	1	2	3	4	5
+state:	0	1	0	0	1	1
+
+Best path for: wide#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: consider#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	0	0	1	0	1	0	1
+
+Best path for: thank#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: breakfast#
+time:	0	1	2	3	4	5	6	7	8	9
+state:	0	0	1	1	0	0	1	0	0	1
+
+Best path for: ran#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: woke#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: reason#
+time:	0	1	2	3	4	5	6
+state:	0	1	1	0	1	0	1
+
+Best path for: held#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: TV#
+time:	0	1	2
+state:	0	1	1
+
+Best path for: wrap#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: bother#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	1	0	1
+
+Best path for: okay#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: smile#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	1	1
+
+Best path for: angry#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: took#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: further#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	0	1	1	0	1
+
+Best path for: known#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	0	1
+
+Best path for: toward#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	0	1
+
+Best path for: life#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: ask#
+time:	0	1	2	3
+state:	0	0	0	1
+
+Best path for: care#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: rush#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: will#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: lose#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: sort#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: respond#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	0	1	0	0	1
+
+Best path for: who#
+time:	0	1	2	3
+state:	0	1	1	1
+
+Best path for: person#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: edge#
+time:	0	1	2	3	4
+state:	0	0	0	1	1
+
+Best path for: use#
+time:	0	1	2	3
+state:	0	0	1	1
+
+Best path for: favorite#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	0	1	0	1	0	1	1
+
+Best path for: sister#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: tight#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: over#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: thought#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	1	1	0	1	0	1
+
+Best path for: wrong#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	0	1
+
+Best path for: meet#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: arrive#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	1	1
+
+Best path for: world#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: alright#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	0	1	0	1
+
+Best path for: probably#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	0	1	0	1	0	1	0	1
+
+Best path for: key#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: less#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: top#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: drive#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	1	1
+
+Best path for: desk#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: of#
+time:	0	1	2
+state:	0	0	1
+
+Best path for: these#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: especially#
+time:	0	1	2	3	4	5	6	7	8	9	10
+state:	0	0	0	1	0	1	1	0	1	0	1
+
+Best path for: knee#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: clear#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: heart#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: shrug#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: sign#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: away#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: your#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: dad#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: where#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: fact#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: worry#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: amaze#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	1	1
+
+Best path for: I#
+time:	0	1
+state:	0	1
+
+Best path for: smoke#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	1	1
+
+Best path for: some#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: pick#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: couple#
+time:	0	1	2	3	4	5	6
+state:	0	1	1	0	1	0	1
+
+Best path for: stop#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: read#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: can#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: pink#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: sit#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: near#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: hello#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: there's#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	1	0	1	1	0	1
+
+Best path for: yeah#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: way#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: made#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: bathroom#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	0	1	0	1	1	0	1
+
+Best path for: picture#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	0	1	0	1	1
+
+Best path for: been#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: lean#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: remain#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	1	0	1
+
+Best path for: part#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: glare#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: buy#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: avoid#
+time:	0	1	2	3	4	5
+state:	0	1	1	1	0	1
+
+Best path for: ring#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: get#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: grow#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: daughter#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	1	0	1	0	1	0	1
+
+Best path for: finger#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: bag#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: ready#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: bottle#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: wore#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: cool#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: thing#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: which#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: yet#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: shoe#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: matter#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: only#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: mood#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: may#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: bottom#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: am#
+time:	0	1	2
+state:	0	0	1
+
+Best path for: afraid#
+time:	0	1	2	3	4	5	6
+state:	0	0	0	1	1	0	1
+
+Best path for: dream#
+time:	0	1	2	3	4	5
+state:	0	0	1	1	0	1
+
+Best path for: I've#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: sorry#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: asleep#
+time:	0	1	2	3	4	5	6
+state:	0	0	1	0	1	0	1
+
+Best path for: kill#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: what#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: band#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: break#
+time:	0	1	2	3	4	5
+state:	0	0	1	1	0	1
+
+Best path for: song#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: those#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: perfect#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	0	1	0	0	1
+
+Best path for: actually#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	0	0	1	1	0	1	0	1
+
+Best path for: office#
+time:	0	1	2	3	4	5	6
+state:	0	0	0	1	0	1	1
+
+Best path for: possible#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	0	0	1	0	1	0	1
+
+Best path for: work#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: understand#
+time:	0	1	2	3	4	5	6	7	8	9	10
+state:	0	1	0	1	0	0	0	1	0	0	1
+
+Best path for: flip#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: foot#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: strange#
+time:	0	1	2	3	4	5	6	7
+state:	0	0	0	1	0	0	1	1
+
+Best path for: chair#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: follow#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	1	0	1
+
+Best path for: much#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: became#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	1	1
+
+Best path for: either#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	1	0	1
+
+Best path for: hadn't#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: hold#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: shout#
+time:	0	1	2	3	4	5
+state:	0	1	1	1	0	1
+
+Best path for: room#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: question#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	1	0	0	1	1	0	1
+
+Best path for: seat#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: came#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: ago#
+time:	0	1	2	3
+state:	0	0	1	1
+
+Best path for: wife#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: taken#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: found#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: store#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	1	1
+
+Best path for: sleep#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: moment#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	0	1
+
+Best path for: least#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: sight#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: grey#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: start#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	0	1
+
+Best path for: we#
+time:	0	1	2
+state:	0	1	1
+
+Best path for: guess#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: let#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: wet#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: you're#
+time:	0	1	2	3	4	5	6
+state:	0	1	1	1	0	1	1
+
+Best path for: hate#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: blonde#
+time:	0	1	2	3	4	5	6
+state:	0	1	1	0	0	1	1
+
+Best path for: table#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: enter#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: woman#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: surprise#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	0	0	0	1	0	1	1
+
+Best path for: excite#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	1	1
+
+Best path for: seem#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: any#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: throat#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	1	0	1
+
+Best path for: know#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: yes#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: white#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: fun#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: last#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: pack#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: beat#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: shake#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: become#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	1	1
+
+Best path for: besides#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	0	1	0	1
+
+Best path for: jump#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: broke#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	1	1
+
+Best path for: interrupt#
+time:	0	1	2	3	4	5	6	7	8	9
+state:	0	1	0	1	0	0	1	0	0	1
+
+Best path for: completely#
+time:	0	1	2	3	4	5	6	7	8	9	10
+state:	0	1	0	0	1	1	0	1	1	0	1
+
+Best path for: slam#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: greet#
+time:	0	1	2	3	4	5
+state:	0	0	1	1	0	1
+
+Best path for: pocket#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: glad#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: recognize#
+time:	0	1	2	3	4	5	6	7	8	9
+state:	0	1	0	1	0	0	1	0	1	1
+
+Best path for: women#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: tonight#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	0	1	0	1
+
+Best path for: before#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	1	1
+
+Best path for: good#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: rang#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: attack#
+time:	0	1	2	3	4	5	6
+state:	0	0	0	1	0	0	1
+
+Best path for: paint#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: month#
+time:	0	1	2	3	4	5
+state:	0	1	0	0	1	1
+
+Best path for: clean#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: chest#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: sigh#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: lip#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: she#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: stuff#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	0	1
+
+Best path for: shook#
+time:	0	1	2	3	4	5
+state:	0	1	1	1	0	1
+
+Best path for: scare#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	1	1
+
+Best path for: loud#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: tell#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: easily#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	1	0	1
+
+Best path for: push#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: five#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: apartment#
+time:	0	1	2	3	4	5	6	7	8	9
+state:	0	0	1	0	0	0	1	0	0	1
+
+Best path for: send#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: doesn't#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	1	0	0	1	0	1
+
+Best path for: father#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	1	0	1
+
+Best path for: totally#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	0	1	0	1
+
+Best path for: six#
+time:	0	1	2	3
+state:	0	1	1	1
+
+Best path for: himself#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	0	1	1	0	1
+
+Best path for: their#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: forget#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: soon#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: happen#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: gasp#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: out#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: without#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	1	1	0	1
+
+Best path for: free#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: hallway#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	0	1	0	1
+
+Best path for: herself#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	0	1	1	0	1
+
+Best path for: quite#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: mine#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: comment#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	0	1	0	0	1
+
+Best path for: stick#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	0	1
+
+Best path for: boy#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: low#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: for#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: I'll#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: whole#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: none#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: long#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: morning#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	0	1	0	0	1
+
+Best path for: every#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: lunch#
+time:	0	1	2	3	4	5
+state:	0	1	0	0	1	1
+
+Best path for: no#
+time:	0	1	2
+state:	0	1	1
+
+Best path for: obviously#
+time:	0	1	2	3	4	5	6	7	8	9
+state:	0	0	1	0	1	1	0	1	0	1
+
+Best path for: my#
+time:	0	1	2
+state:	0	0	1
+
+Best path for: girlfriend#
+time:	0	1	2	3	4	5	6	7	8	9	10
+state:	0	1	0	1	0	0	1	1	0	0	1
+
+Best path for: cry#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: lay#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: tone#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: minute#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	1	1
+
+Best path for: trip#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: brought#
+time:	0	1	2	3	4	5	6	7
+state:	0	0	1	1	0	1	0	1
+
+Best path for: red#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: under#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: build#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: place#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: thick#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: cell#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: why#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: lift#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: ah#
+time:	0	1	2
+state:	0	1	1
+
+Best path for: so#
+time:	0	1	2
+state:	0	1	1
+
+Best path for: clothes#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	1	0	1	1	0	1
+
+Best path for: raise#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: rose#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: road#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: annoy#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: you#
+time:	0	1	2	3
+state:	0	1	1	1
+
+Best path for: roll#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: smell#
+time:	0	1	2	3	4	5
+state:	0	0	1	1	0	1
+
+Best path for: kiss#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: straight#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	0	0	1	1	0	1	0	1
+
+Best path for: land#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: letter#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: children#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	0	1	0	0	1	0	1
+
+Best path for: gave#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: another#
+time:	0	1	2	3	4	5	6	7
+state:	0	0	1	0	1	1	0	1
+
+Best path for: pay#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: young#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	0	1
+
+Best path for: this#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: cat#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: are#
+time:	0	1	2	3
+state:	0	0	1	1
+
+Best path for: star#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: notice#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	1	1
+
+Best path for: paper#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: hall#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: miss#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: pretend#
+time:	0	1	2	3	4	5	6	7
+state:	0	0	1	0	1	0	0	1
+
+Best path for: he#
+time:	0	1	2
+state:	0	1	1
+
+Best path for: Mrs.#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: bore#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: real#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: spot#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: lost#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: nod#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: eventually#
+time:	0	1	2	3	4	5	6	7	8	9	10
+state:	0	1	1	0	0	1	1	0	1	0	1
+
+Best path for: left#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: friend#
+time:	0	1	2	3	4	5	6
+state:	0	0	1	1	0	0	1
+
+Best path for: side#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: second#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	0	1
+
+Best path for: simply#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: kind#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: brother#
+time:	0	1	2	3	4	5	6	7
+state:	0	0	1	0	1	1	0	1
+
+Best path for: most#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: student#
+time:	0	1	2	3	4	5	6	7
+state:	0	0	1	0	1	0	0	1
+
+Best path for: die#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: problem#
+time:	0	1	2	3	4	5	6	7
+state:	0	0	1	0	1	1	0	1
+
+Best path for: nearly#
+time:	0	1	2	3	4	5	6
+state:	0	1	1	0	1	0	1
+
+Best path for: visit#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: bed#
+time:	0	1	2	3
+state:	0	1	0	1
+
+Best path for: upon#
+time:	0	1	2	3	4
+state:	0	0	1	0	1
+
+Best path for: since#
+time:	0	1	2	3	4	5
+state:	0	1	0	0	1	1
+
+Best path for: sick#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: hell#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: night#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: call#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: themselves#
+time:	0	1	2	3	4	5	6	7	8	9	10
+state:	0	1	1	0	0	1	0	1	1	0	1
+
+Best path for: blink#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: reach#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: hurry#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: just#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: a#
+time:	0	1
+state:	0	1
+
+Best path for: does#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: neck#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: slow#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: walk#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: again#
+time:	0	1	2	3	4	5
+state:	0	0	1	1	0	1
+
+Best path for: move#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: hospital#
+time:	0	1	2	3	4	5	6	7	8
+state:	0	1	0	0	1	0	1	0	1
+
+Best path for: spend#
+time:	0	1	2	3	4	5
+state:	0	0	1	0	0	1
+
+Best path for: oh#
+time:	0	1	2
+state:	0	1	1
+
+Best path for: promise#
+time:	0	1	2	3	4	5	6	7
+state:	0	0	1	0	1	0	1	1
+
+Best path for: box#
+time:	0	1	2	3
+state:	0	1	1	1
+
+Best path for: death#
+time:	0	1	2	3	4	5
+state:	0	1	1	0	1	1
+
+Best path for: dark#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: sudden#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: cover#
+time:	0	1	2	3	4	5
+state:	0	1	0	1	0	1
+
+Best path for: in#
+time:	0	1	2
+state:	0	0	1
+
+Best path for: excuse#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	1	0	1	1
+
+Best path for: wood#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: warm#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: evening#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	1	0	1	0	0	1
+
+Best path for: coffee#
+time:	0	1	2	3	4	5	6
+state:	0	1	0	0	1	0	1
+
+Best path for: such#
+time:	0	1	2	3	4
+state:	0	1	0	1	1
+
+Best path for: something#
+time:	0	1	2	3	4	5	6	7	8	9
+state:	0	1	0	1	0	1	0	1	0	1
+
+Best path for: finally#
+time:	0	1	2	3	4	5	6	7
+state:	0	1	0	1	0	1	0	1
+
+Best path for: turn#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: aunt#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
+Best path for: rain#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: fear#
+time:	0	1	2	3	4
+state:	0	1	1	0	1
+
+Best path for: back#
+time:	0	1	2	3	4
+state:	0	1	0	0	1
+
